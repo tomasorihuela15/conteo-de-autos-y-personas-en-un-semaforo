@@ -16,6 +16,7 @@ El objetivo de este proyecto es desarrollar un sistema de conteo de autos y pers
 
 Para realizar el prototipo se necesitan los siguientes materiales:
 
+
 - OpenCV
 - Camara web
 - Cable USB
@@ -23,33 +24,29 @@ Para realizar el prototipo se necesitan los siguientes materiales:
 
 
 
-## Codigo 
-### El siguiente contenido es el codigo de conexion que se utilizo para configurar la webb cam.
+# Codigo 
 
+#### El siguiente contenido es el codigo de conexion que se utilizo para configurar la webb cam junto con el conteo de autos y personas.
 
-
-
-
-
-
-
-### El siguiente codigo que se muestra es el reconocimiento de objetos (autos y personas).
-
+ ![App Screenshot](https://raw.githubusercontent.com/tomasorihuela15/conteo-de-autos-y-personas-en-un-semaforo/main/Imagenes/Parte1.jpeg)
+ 
+  ![App Screenshot](https://raw.githubusercontent.com/tomasorihuela15/conteo-de-autos-y-personas-en-un-semaforo/main/Imagenes/Parte2.jpeg)
+  
+   ![App Screenshot](https://raw.githubusercontent.com/tomasorihuela15/conteo-de-autos-y-personas-en-un-semaforo/main/Imagenes/Parte3.jpeg)
 
  
-## Resultados
+# Resultados
 A continuación, podra verse una vista previa del sistema y de la web cam identificando algunos objetos en movimiento.
  
- ![App Screenshot](https://raw.githubusercontent.com/biovoid19/Lab-Sentinel/main/img/img.jpg) 
+ ![App Screenshot](https://raw.githubusercontent.com/tomasorihuela15/conteo-de-autos-y-personas-en-un-semaforo/2095ea8340b638370cb7f5027d4e8b720e5d2d9e/Imagenes/EquipoCompleto.jpeg) 
  
-### Ejemplos de web cams identificando personas y autos en la vida real.
-
-
+ ![App Screenshot](https://raw.githubusercontent.com/tomasorihuela15/conteo-de-autos-y-personas-en-un-semaforo/2095ea8340b638370cb7f5027d4e8b720e5d2d9e/Imagenes/Webcam.jpeg) 
+ 
+  ![App Screenshot](https://raw.githubusercontent.com/tomasorihuela15/conteo-de-autos-y-personas-en-un-semaforo/main/Imagenes/Conteo.jpeg) 
+ 
+ 
 # Créditos
 Desarrollado por:
 - [@Jose Orihuela](https://github.com/tomasorihuela15)
-- [
 
 
-## License
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
