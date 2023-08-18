@@ -48,5 +48,5 @@ A continuación, podra verse una vista previa del sistema y de la web cam identi
 # Créditos
 Desarrollado por:
 - [@Jose Orihuela](https://github.com/tomasorihuela15)
-
+- [@Danna](https://github.com/DatzVG)
 
