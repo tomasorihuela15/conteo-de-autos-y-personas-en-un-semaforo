@@ -42,11 +42,14 @@ Para realizar el prototipo se necesitan los siguientes materiales:
 A continuación, podra verse una vista previa del sistema y de la web cam identificando algunos objetos en movimiento.
  
  ![App Screenshot](https://raw.githubusercontent.com/biovoid19/Lab-Sentinel/main/img/img.jpg) 
+ 
+### Ejemplos de web cams identificando personas y autos en la vida real.
+
 
 # Créditos
 Desarrollado por:
 - [@Jose Orihuela](https://github.com/tomasorihuela15)
-- [@Raul Rodriguez](https://www.github.com/RaulRodriguez050221)
+- [
 
 
 ## License
