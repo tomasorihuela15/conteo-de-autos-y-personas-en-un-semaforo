@@ -16,7 +16,6 @@ El objetivo de este proyecto es desarrollar un sistema de conteo de autos y pers
 
 Para realizar el prototipo se necesitan los siguientes materiales:
 
-- Sensor RFID
 - OpenCV
 - Camara web
 - Cable USB
